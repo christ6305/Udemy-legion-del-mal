@@ -1,5 +1,20 @@
 # 🦹‍♂️ La Legión del Mal
 
+![Estático](https://img.shields.io/badge/Legion--Del--Mal--Última--Version-Activa)
+
+
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/christ6305/Udemy-legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/christ6305/Udemy-legion-del-mal)
+![Issues](https://img.shields.io/github/issues/christ6305/Udemy-legion-del-mal)
+![Último commit](https://img.shields.io/github/last-commit/christ6305/Udemy-legion-del-mal)
+![Licencia](https://img.shields.io/github/license/christ6305/Udemy-legion-del-mal)
+
+Un detalle práctico: GitHub cachea las imágenes a través de Camo, así que un badge dinámico puede tardar unos minutos en reflejar el cambio.
+
+
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
